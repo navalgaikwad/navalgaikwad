@@ -5,7 +5,7 @@
 
 
 
-https://badges.pufler.dev/updated/navalgaikwad/{repo}
+https://badges.pufler.dev/updated/navalgaikwad/Leetcode
 [![Updated Badge](https://badges.pufler.dev/updated/pujux/badge-it)](https://badges.pufler.dev)
 
 
