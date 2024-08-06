@@ -5,8 +5,8 @@
 
 
 
-https://badges.pufler.dev/updated/navalgaikwad/Leetcode
-[![Updated Badge](https://badges.pufler.dev/updated/pujux/badge-it)](https://badges.pufler.dev)
+
+[![Updated Badge](https://badges.pufler.dev/updated/navalgaikwad/Leetcode)](https://badges.pufler.dev)
 
 
 <!---
