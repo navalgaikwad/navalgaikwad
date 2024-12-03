@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @navalgaikwad
-- 👀 I’m interested in Experienced Software Developer with a demonstrated history of working in the IT industry. Skilled in Agile Methodologies, Hibernate, Spring Framework, Java and Postman API. Strong engineering professional with a Bachelor of Engineering - BE focused in Computer Software Engineering from Centre for Development of Advanced Computing (C-DAC).
-
+- 👋 Hi, I’m Anantnaval Gaikwad!
+- 🚀 Full-stack developer skilled in Java, Spring, React.js, and AWS Cloud Computing.
+💡 Passionate about building scalable and secure software solutions with modern tools and technologies.
 ![Visitor Count](https://profile-counter.glitch.me/navalgaikwad/count.svg)
 
 
