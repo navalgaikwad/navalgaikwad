@@ -11,6 +11,8 @@
 [![Updated Badge](https://badges.pufler.dev/updated/navalgaikwad/Leetcode)](https://badges.pufler.dev)
 [![GitHub Streak](https://streak-stats.demolab.com?user=navalgaikwad&theme=dark)](https://git.io/streak-stats)
 
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=navalgaikwad&theme=dark" alt="GitHub Streak" /></a>
+
 
 
 
