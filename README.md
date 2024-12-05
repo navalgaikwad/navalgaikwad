@@ -9,7 +9,7 @@
 ![Visitor Count](https://profile-counter.glitch.me/navalgaikwad/count.svg)
 
 [![Updated Badge](https://badges.pufler.dev/updated/navalgaikwad/Leetcode)](https://badges.pufler.dev)
-[![GitHub Streak](https://streak-stats.demolab.com/?user=navalgaikwad)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=navalgaikwad&theme=dark)](https://git.io/streak-stats)
 
 
 
