@@ -9,9 +9,6 @@
 ![Visitor Count](https://profile-counter.glitch.me/navalgaikwad/count.svg)
 
 [![Updated Badge](https://badges.pufler.dev/updated/navalgaikwad/Leetcode)](https://badges.pufler.dev)
-[![GitHub Streak](https://streak-stats.demolab.com?user=navalgaikwad&theme=dark)](https://git.io/streak-stats)
-
-
 
 
 
@@ -49,7 +46,7 @@
 ![CSS3](https://img.shields.io/badge/-CSS3-272822?style=flat&logo=css3)&nbsp; -->
 
 <p align="left"> 
-  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=navalgaikwad&theme=dark" alt="GitHub Streak" /></a>
+ 
   <a href="https://www.java.com" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
   </a> 
