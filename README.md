@@ -9,6 +9,7 @@
 ![Visitor Count](https://profile-counter.glitch.me/navalgaikwad/count.svg)
 
 [![Updated Badge](https://badges.pufler.dev/updated/navalgaikwad/Leetcode)](https://badges.pufler.dev)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=navalgaikwad)](https://git.io/streak-stats)
 
 
 
@@ -73,9 +74,6 @@
   <a href="https://www.w3schools.com/css/" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
   </a> 
-  <a href="https://www.java.com" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
-  </a> 
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
   </a> 
@@ -90,9 +88,6 @@
   </a>  
   <a href="https://developer.android.com" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> 
-  </a>
-  <a href="https://sentry.io/" target="_blank"> 
-    <img src="https://symbols.getvecta.com/stencil_95/63_sentry-icon.dc415135e6.svg" alt="sentry" width="40" height="40"/> 
   </a>
   <a href="https://spring.io/projects/spring-boot" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original-wordmark.svg" alt="spring boot" width="40" height="40"/> 
@@ -118,4 +113,3 @@
 </a>
 </p>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=saintlyzero&theme=dracula)](https://git.io/streak-stats) 
