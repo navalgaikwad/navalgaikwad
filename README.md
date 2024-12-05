@@ -16,11 +16,12 @@
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="left">
-<a href="https://github.com/navalgaikwad">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=saintlyzero&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=saintlyzero&layout=compact&langs_count=8&theme=dracula"/>
-</a>
+  <a href="https://github.com/navalgaikwad">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=navalgaikwad&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=navalgaikwad&layout=compact&langs_count=8&theme=dracula"/>
+  </a>
 </p>
+
 
 ### 🛠 &nbsp;Tech Stack
 <!-- Todo: use flat icons-->
@@ -106,10 +107,15 @@
 
 ### 🤝🏻 &nbsp;Connect with Me
 
+
 <p align="left">
 <a href="mailto:navalgaikwad1991@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white"/></a>
-<a href="https://linkedin.com/in/anantnaval-gaikwad"><img src="https://img.shields.io/badge/-Shubham%20Dalvi-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="https://leetcode.com/u/navalsfriend/"><img src="https://img.shields.io/badge/-@saintlyzero-FFA116?style=flat&logo=leetcode&logoColor=white"/></a>
+<a href="https://linkedin.com/in/anantnaval-gaikwad">
+  <img src="https://img.shields.io/badge/-Anantnaval%20Gaikwad-0077B5?style=flat&logo=Linkedin&logoColor=white"/>
+</a>
+<a href="https://leetcode.com/u/navalsfriend/">
+  <img src="https://img.shields.io/badge/-@navalsfriend-FFA116?style=flat&logo=leetcode&logoColor=white"/>
+</a>
 </p>
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=saintlyzero&theme=dracula)](https://git.io/streak-stats) 
