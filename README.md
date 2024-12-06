@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Anantnaval(Naval) Gaikwad!
 - 🚀 Full-stack developer skilled in Java, Spring, React.js, and AWS Cloud Computing.
-- 🔭 Completed Master's of Information Technology
+- 🔭 Completed Master's in Information Technology
 - 🌱 I’m currently diving deep into Algorithms and Data Structures
 - 💬 Ask me about Spring Boot, Java, Databases, Backend Development
 
