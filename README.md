@@ -10,7 +10,7 @@
 
 [![Updated Badge](https://badges.pufler.dev/updated/navalgaikwad/Leetcode)](https://badges.pufler.dev)
 
-
+### ⚙️ &nbsp;GitHub Streak Stats
 <p align="left">
   <a href="https://github.com/navalgaikwad">
     <img src="https://streak-stats.demolab.com/?user=navalgaikwad" alt="GitHub Streak Stats"/>
