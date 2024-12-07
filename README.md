@@ -11,7 +11,7 @@
 [![Updated Badge](https://badges.pufler.dev/updated/navalgaikwad/Leetcode)](https://badges.pufler.dev)
 
 
-
+https://streak-stats.demolab.com/?user=navalgaikwad
 
 ### ⚙️ &nbsp;GitHub Analytics
 
