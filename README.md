@@ -26,6 +26,7 @@
   </a>
 </p>
 
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=navalgaikwad&theme=default)
 
 ### 🛠 &nbsp;Tech Stack
 <!-- Todo: use flat icons-->
